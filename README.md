@@ -7,7 +7,7 @@ The codenames for NXD airliners
 |        **E**       | Economy / Glider         | 100–300      | E220    |
 |        **A**       | Airliner / Transport     | 300–500      | A350    |
 |        **F**       | Fighter / Performance    | 400–900      | F780    |
-|        **S**       | Luxury / Executive       | 500–700      | S650    |
+|        **S**       | Luxury / Executive       | 500–900      | S650    |
 
 ## Number range
 |  Range  | Meaning                          | Typical Use                        |
