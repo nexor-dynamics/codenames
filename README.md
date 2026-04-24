@@ -17,8 +17,8 @@ The codenames for NXD airliners
 | **300** | Medium / balanced                | Light airliners or medium range    |
 | **400** | Mid-heavy / higher power         | Large airliners or light fighters  |
 | **500** | Large / advanced                 | Wide-body jets or heavy fighters   |
-| **600** | Flagship / specialized           | Supersonic or long-range military  |
-| **900** | Experimental / tech demonstrator | Cutting-edge prototype             |
+| **600** | Experimental / tech demonstrator | Upgraded internals                 |
+| **900** | Flagship / specialized           | Supersonic or long-range military  |
 
 ## Generation
 **`N1` `N2` `N3`** ..
